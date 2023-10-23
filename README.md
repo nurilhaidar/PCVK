@@ -1,3 +1,3 @@
 # PCVK
 
-MY JOURNEY TO UNDERSTANDING A PYTHON CODE :)
+Kumpulan tugas kuliah Pengolahan Citra dan Visi Komputer (PCVK)
